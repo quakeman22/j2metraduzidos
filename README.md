@@ -10,6 +10,6 @@ Meus Links:
 
 Este #Repo possui: 
 
-  |  ° Joogos recuperados e preservados  
+  |  ° Jo gos recuperados e preservados  
   |  ° Novas Traduções  
   |  ° Tutoriais (Em breve)
