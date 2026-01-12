@@ -226,9 +226,9 @@
   },
   {
     "filename": "Crash of The Titans BR.jar",
-    "produtora": "",
+    "produtora": "Devalley",
     "display_name": "Crash of The Titans",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/pnC1qKz.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -253,9 +253,9 @@
   },
   {
     "filename": "Devalley's Landers 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Devalley",
     "display_name": "Devalley's Landers",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/jiM5hhc.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -406,9 +406,9 @@
   },
   {
     "filename": "Gun Fever 240x320 [T-ES] vF.jar",
-    "produtora": "",
+    "produtora": "Devalley",
     "display_name": "Gun Fever",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/MKiCb6b.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -442,18 +442,18 @@
   },
   {
     "filename": "Holy Wars - Filhos de Enoque [BR].jar",
-    "produtora": "",
+    "produtora": "Devalley",
     "display_name": "Holy Wars Filhos de Enoque",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/zjf8WRq.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Holy Wars 240x320 [T-ES] vF.jar",
-    "produtora": "",
+    "produtora": "Devalley",
     "display_name": "Holy Wars",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/zjf8WRq.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -622,27 +622,63 @@
   },
   {
     "filename": "Nowhere 240x320 [BR] (R2).jar",
-    "produtora": "",
-    "display_name": "Nowhere",
-    "cover_url": "",
+    "produtora": "Devalley",
+    "display_name": "Nowhere V1",
+    "cover_url": "https://i.imgur.com/X1wZy7r.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Nowhere 240x320 [BR] [v2].jar",
-    "produtora": "",
-    "display_name": "Nowhere",
-    "cover_url": "",
+    "produtora": "Devalley",
+    "display_name": "Nowhere V2",
+    "cover_url": "https://i.imgur.com/X1wZy7r.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },
+    {
+    "filename": "Panic Flight [BR] 240X320.jar",
+    "produtora": "Devalley",
+    "display_name": "Panic Flight",
+    "cover_url": "https://i.imgur.com/Hm2XEJa.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },
+   {
+    "filename": "Knight Tales - Terra da Amargura [BR] 240X320.jar",
+    "produtora": "Devalley",
+    "display_name": "Knight Tales: Terra da Amargura",
+    "cover_url": "https://i.imgur.com/Hm2XEJa.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
-    "filename": "Nowhere 320x240 [BR] (R2).jar",
-    "produtora": "",
-    "display_name": "Nowhere",
-    "cover_url": "",
+    "filename": "Ōban Star-Racers [BR] 240X320.jar",
+    "produtora": "Devalley",
+    "display_name": "Ōban Star-Racers",
+    "cover_url": "https://i.imgur.com/XIGSiL5.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },    
+  {
+  "filename": "Sudoku Treino de Q.I  [BR] 240X320.jar",
+    "produtora": "Devalley",
+    "display_name": "Sudoku Treino de Q.I",
+    "cover_url": "https://i.imgur.com/HNhiRgN.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },    
+  {
+  "filename": "As Crônicas de Spiderwick [BR] 240X320.jar",
+    "produtora": "Devalley",
+    "display_name": "As Crônicas de Spiderwick",
+    "cover_url": "https://i.imgur.com/ihs2xw2.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -820,27 +856,45 @@
   },
   {
     "filename": "Splinter Cell - Chaos Theory 240x320.jar",
-    "produtora": "",
+    "produtora": "Gameloft SA",
     "display_name": "Splinter Cell - Chaos Theory",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/4rTEYSE.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Splinter Cell - Pandora Tomorrow [BR] 240x320.jar",
-    "produtora": "",
+    "produtora": "Gameloft SA",
     "display_name": "Splinter Cell - Pandora Tomorrow",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/aO0jD5Y.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Splinter Cell Pandora Tomorrow 3D 176x208 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Gameloft SA",
     "display_name": "Splinter Cell Pandora Tomorrow 3D",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/aO0jD5Y.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },
+    {
+    "filename": "Splinter Cell - Double Agent 240x320 [BR].jar",
+    "produtora": "Gameloft SA",
+    "display_name": "Splinter Cell - Double Agent",
+    "cover_url": "https://i.imgur.com/jw3lECq.png",
+    "ano": "",
+    "genero": "",
+    "descricao": ""
+  },
+    {
+    "filename": "Splinter Cell Conviction 240x320 [BR].jar",
+    "produtora": "Gameloft SA",
+    "display_name": "Splinter Cell Conviction",
+    "cover_url": "https://i.imgur.com/rxChqAX.png",
     "ano": "",
     "genero": "",
     "descricao": ""
