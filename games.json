@@ -443,7 +443,7 @@
   {
     "filename": "Holy Wars - Filhos de Enoque [BR].jar",
     "produtora": "Devalley",
-    "display_name": "Holy Wars Filhos de Enoque",
+    "display_name": "Holy Wars V1",
     "cover_url": "https://i.imgur.com/zjf8WRq.png",
     "ano": "",
     "genero": "",
@@ -452,7 +452,7 @@
   {
     "filename": "Holy Wars 240x320 [T-ES] vF.jar",
     "produtora": "Devalley",
-    "display_name": "Holy Wars",
+    "display_name": "Holy Wars V2",
     "cover_url": "https://i.imgur.com/zjf8WRq.png",
     "ano": "",
     "genero": "",
@@ -651,7 +651,7 @@
     "filename": "Knight Tales - Terra da Amargura [BR] 240X320.jar",
     "produtora": "Devalley",
     "display_name": "Knight Tales: Terra da Amargura",
-    "cover_url": "https://i.imgur.com/Hm2XEJa.png",
+    "cover_url": "https://i.imgur.com/WJhB1Pi.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -730,9 +730,9 @@
   },
   {
     "filename": "Powerboat Challenge 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Fish Labs",
     "display_name": "Powerboat Challenge",
-    "cover_url": "",
+    "cover_url": "https://2.bp.blogspot.com/-YgGwweF9rzI/Tk5acwKdoPI/AAAAAAAACx4/Zi2FCayXgvA/s1600/PowerboatChallenge3D_176x208_0.gif",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -748,18 +748,18 @@
   },
   {
     "filename": "Prison Break 240x320 [BR] v.F.jar",
-    "produtora": "",
+    "produtora": "Vivendi",
     "display_name": "Prison Break",
-    "cover_url": "",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Prison_Break_season_1_dvd.jpg",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Quake Plus 3D BR.jar",
-    "produtora": "",
+    "produtora": "M3GWorks",
     "display_name": "Quake Plus 3D",
-    "cover_url": "",
+    "cover_url": "https://static.wikia.nocookie.net/quake/images/6/61/Logo-0.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -802,18 +802,18 @@
   },
   {
     "filename": "Real Football 2008 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Gameloft",
     "display_name": "Real Football 2008",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/6jNeoOk.png",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Resident Evil - Degeneração [BR].jar",
-    "produtora": "",
-    "display_name": "Resident Evil - Degeneração",
-    "cover_url": "",
+    "produtora": "Capcom",
+    "display_name": "Resident Evil Degeneração",
+    "cover_url": "https://www.dvdfr.com/images/dvd/covers/200x280/6a3bbc4f23d773479fdb481dddb3eef5/41217/old-resident_evil_degeneration.0.jpg",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -838,18 +838,18 @@
   },
   {
     "filename": "SexTrip 240x320 [BR].jar",
-    "produtora": "",
-    "display_name": "SexTrip",
-    "cover_url": "",
+    "produtora": "Hero Craft",
+    "display_name": "Sex Trip",
+    "cover_url": "https://andrew-lviv.net/downloads2/games2_im4.php?id=71150&screenW=230&screenH=230&screen=1",
     "ano": "",
     "genero": "",
     "descricao": ""
   },
   {
     "filename": "Sexta Feira 13 BR.jar",
-    "produtora": "",
+    "produtora": "Hero Craft",
     "display_name": "Sexta Feira 13",
-    "cover_url": "",
+    "cover_url": "https://static.wikia.nocookie.net/fridaythe13th/images/0/04/Fr13th_Road_to_Hell_-_title.png",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -857,7 +857,7 @@
   {
     "filename": "Splinter Cell - Chaos Theory 240x320.jar",
     "produtora": "Gameloft SA",
-    "display_name": "Splinter Cell - Chaos Theory",
+    "display_name": "Splinter Cell CT",
     "cover_url": "https://i.imgur.com/4rTEYSE.png",
     "ano": "",
     "genero": "",
@@ -866,7 +866,7 @@
   {
     "filename": "Splinter Cell - Pandora Tomorrow [BR] 240x320.jar",
     "produtora": "Gameloft SA",
-    "display_name": "Splinter Cell - Pandora Tomorrow",
+    "display_name": "Splinter Cell PT",
     "cover_url": "https://i.imgur.com/aO0jD5Y.png",
     "ano": "",
     "genero": "",
@@ -875,7 +875,7 @@
   {
     "filename": "Splinter Cell Pandora Tomorrow 3D 176x208 240x320 [BR].jar",
     "produtora": "Gameloft SA",
-    "display_name": "Splinter Cell Pandora Tomorrow 3D",
+    "display_name": "Splinter Cell PT 3D",
     "cover_url": "https://i.imgur.com/aO0jD5Y.png",
     "ano": "",
     "genero": "",
@@ -884,7 +884,7 @@
     {
     "filename": "Splinter Cell - Double Agent 240x320 [BR].jar",
     "produtora": "Gameloft SA",
-    "display_name": "Splinter Cell - Double Agent",
+    "display_name": "Splinter Cell DA",
     "cover_url": "https://i.imgur.com/jw3lECq.png",
     "ano": "",
     "genero": "",
