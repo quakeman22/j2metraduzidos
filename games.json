@@ -86,7 +86,7 @@
     "display_name": "Aporkalypse",
     "cover_url": "https://prodigits.co.uk/thumbs/java-games/thumbs/All/Games/s/1340266753.jpg",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
@@ -95,7 +95,7 @@
     "display_name": "Asphalt Urban GT",
     "cover_url": "https://m.media-amazon.com/images/M/MV5BN2RmODIxZWUtZTY3OC00MjViLWI4OTctZjI4ZDhmMjBhNjhiXkEyXkFqcGc@._V1_.jpg",
     "ano": "",
-    "genero": "",
+    "genero": "Corrida",
     "descricao": ""
   },
   {
@@ -104,7 +104,7 @@
     "display_name": "Asterix Rescue Obelix",
     "cover_url": "https://static.wikia.nocookie.net/igromania/images/1/12/Asterix_Rescue_Obelix_-%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
@@ -113,70 +113,70 @@
     "display_name": "Asterix And The Vikings",
     "cover_url": "https://static.wikia.nocookie.net/dublagem/images/d/d8/Asterix_e_os_Vikings.jpg",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Avenging Angel BR.jar",
-    "produtora": "",
+    "produtora": "Tracebit Ltd",
     "display_name": "Avenging Angel",
     "cover_url": "https://i.imgur.com/BABQntG.jpeg",
-    "ano": "",
-    "genero": "",
+    "ano": "2008",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Bioshock Mobile 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Indiagames",
     "display_name": "Bioshock Mobile",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Bomberman 3D 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Hudson",
     "display_name": "Bomberman 3D",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Doom RPG 240x320 [BR].jar",
-    "produtora": "ID",
+    "produtora": "EA Games",
     "display_name": "Doom RPG",
     "cover_url": "https://i.imgur.com/eLetih3.jpeg",
     "ano": "",
-    "genero": "",
+    "genero": "Tiro",
     "descricao": ""
   },
   {
     "filename": "Bomberman Atomic 3D 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Hudson",
     "display_name": "Bomberman Atomic 3D",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Bonks Return [BR].jar",
-    "produtora": "",
+    "produtora": "Living Mobile",
     "display_name": "Bonks Return",
     "cover_url": "",
-    "ano": "",
-    "genero": "",
+    "ano": "2006",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Bourne - Conspiração [BR].jar",
-    "produtora": "",
+    "produtora": "Vivendi",
     "display_name": "Bourne Conspiração",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
@@ -199,29 +199,29 @@
   },
   {
     "filename": "Cadillacs and Dinosaurs [240x320] [BR].jar",
-    "produtora": "",
+    "produtora": "Chinese",
     "display_name": "Cadillacs and Dinosaurs",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Camera Cafe El Juego Movil 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Gameloft",
     "display_name": "Camera Cafe El Juego Movil",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Lógica",
     "descricao": ""
   },
   {
     "filename": "Capitão Comando 240x320 [BR].jar",
-    "produtora": "",
+    "produtora": "Chinese",
     "display_name": "Capitão Comando",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
@@ -230,16 +230,16 @@
     "display_name": "Crash of The Titans",
     "cover_url": "https://i.imgur.com/pnC1qKz.png",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
     "filename": "Dead Water BR.jar",
-    "produtora": "",
+    "produtora": "Desconhecido",
     "display_name": "Dead Water",
     "cover_url": "",
     "ano": "",
-    "genero": "",
+    "genero": "Lógica",
     "descricao": ""
   },
   {
