@@ -102,7 +102,7 @@
     "filename": "Asterix Rescue Obelix 240x320 [BR].jar",
     "produtora": "In-Fusio",
     "display_name": "Asterix Rescue Obelix",
-    "cover_url": "https://static.wikia.nocookie.net/igromania/images/1/12/Asterix_Rescue_Obelix_-%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg",
+    "cover_url": "https://i.imgur.com/K77QCJX.png",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -111,7 +111,7 @@
     "filename": "Asterix_And_The_Vikings_Multi_[BR].jar",
     "produtora": "In-Fusio",
     "display_name": "Asterix And The Vikings",
-    "cover_url": "https://static.wikia.nocookie.net/dublagem/images/d/d8/Asterix_e_os_Vikings.jpg",
+    "cover_url": "https://i.imgur.com/vxRtrdp.jpeg",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -129,7 +129,7 @@
     "filename": "Bioshock Mobile 240x320 [BR].jar",
     "produtora": "Indiagames",
     "display_name": "Bioshock Mobile",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/UyKwGzw.png",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -138,7 +138,7 @@
     "filename": "Bomberman 3D 240x320 [BR].jar",
     "produtora": "Hudson",
     "display_name": "Bomberman 3D",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/soj9pgj.jpeg",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -156,7 +156,7 @@
     "filename": "Bomberman Atomic 3D 240x320 [BR].jar",
     "produtora": "Hudson",
     "display_name": "Bomberman Atomic 3D",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/zftUY5Q.jpeg",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -165,7 +165,7 @@
     "filename": "Bonks Return [BR].jar",
     "produtora": "Living Mobile",
     "display_name": "Bonks Return",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/mYo27XT.png",
     "ano": "2006",
     "genero": "Aventura",
     "descricao": ""
@@ -174,7 +174,7 @@
     "filename": "Bourne - Conspiração [BR].jar",
     "produtora": "Vivendi",
     "display_name": "Bourne Conspiração",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/k50nXPm.jpeg",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -182,17 +182,17 @@
   {
     "filename": "BunnyBuster [BR] 240X320.jar",
     "produtora": "",
-    "display_name": "BunnyBuster",
-    "cover_url": "",
+    "display_name": "BunnyBuster 240",
+    "cover_url": "https://i.imgur.com/jh85rRX.jpeg",
     "ano": "",
-    "genero": "",
+    "genero": "Lógica",
     "descricao": ""
   },
   {
     "filename": "BunnyBuster [BR] 360X640.jar",
     "produtora": "",
-    "display_name": "BunnyBuster",
-    "cover_url": "",
+    "display_name": "BunnyBuster 360",
+    "cover_url": "https://i.imgur.com/jh85rRX.jpeg",
     "ano": "",
     "genero": "",
     "descricao": ""
@@ -201,7 +201,7 @@
     "filename": "Cadillacs and Dinosaurs [240x320] [BR].jar",
     "produtora": "Chinese",
     "display_name": "Cadillacs and Dinosaurs",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/ZYly857.png",
     "ano": "",
     "genero": "Aventura",
     "descricao": ""
@@ -210,18 +210,9 @@
     "filename": "Camera Cafe El Juego Movil 240x320 [BR].jar",
     "produtora": "Gameloft",
     "display_name": "Camera Cafe El Juego Movil",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/qzqYKC2.gif",
     "ano": "",
     "genero": "Lógica",
-    "descricao": ""
-  },
-  {
-    "filename": "Capitão Comando 240x320 [BR].jar",
-    "produtora": "Chinese",
-    "display_name": "Capitão Comando",
-    "cover_url": "",
-    "ano": "",
-    "genero": "Aventura",
     "descricao": ""
   },
   {
@@ -237,7 +228,7 @@
     "filename": "Dead Water BR.jar",
     "produtora": "Desconhecido",
     "display_name": "Dead Water",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/gyUhoSH.png",
     "ano": "",
     "genero": "Lógica",
     "descricao": ""
@@ -246,9 +237,9 @@
     "filename": "Death Trap 2 - The Unlocked Code 240x320 [BR].jar",
     "produtora": "",
     "display_name": "Death Trap 2 The Unlocked Code",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/TDlnR3X.png",
     "ano": "",
-    "genero": "",
+    "genero": "Terror",
     "descricao": ""
   },
   {
@@ -273,9 +264,9 @@
     "filename": "Dynamo Kid 3 [BR] 240x320.jar",
     "produtora": "",
     "display_name": "Dynamo Kid 3",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/X2mWND4.jpeg",
     "ano": "",
-    "genero": "",
+    "genero": "Plataforma",
     "descricao": ""
   },
   {
@@ -309,27 +300,27 @@
     "filename": "Fast And Furious 4 -The Official Game 240x320 [BR].jar",
     "produtora": "",
     "display_name": "Fast And Furious 4 The Official Game",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/6MivJIE.jpeg",
     "ano": "",
-    "genero": "",
+    "genero": "Corrida",
     "descricao": ""
   },
   {
     "filename": "Fast And Furious Tokyo 240x320 [BR].jar",
     "produtora": "",
     "display_name": "Fast And Furious Tokyo",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/T3kPufW.jpeg",
     "ano": "",
-    "genero": "",
+    "genero": "Corrida",
     "descricao": ""
   },
   {
     "filename": "Fatal Bazooka Starring Michael Youn 240x320 [BR].jar",
     "produtora": "",
     "display_name": "Fatal Bazooka Starring Michael Youn",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/kdwPKel.png",
     "ano": "",
-    "genero": "",
+    "genero": "Lógica",
     "descricao": ""
   },
   {
