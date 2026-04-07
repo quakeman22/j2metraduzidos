@@ -746,6 +746,15 @@
     "genero": "Tiro",
     "descricao": ""
   },
+    {
+    "filename": "Rainbow_Six_LockDown_240x320_[BR].jar",
+    "produtora": "Gameloft",
+    "display_name": "Rainbow Six LockDown",
+    "cover_url": "https://i.imgur.com/Mf9Z88X.png",
+    "ano": "",
+    "genero": "Tiro",
+    "descricao": ""
+  },
   {
     "filename": "Rayman 3 [BR] 240X320.jar",
     "produtora": "Gameloft",
@@ -1065,9 +1074,9 @@
     "filename": "War Of The Worlds [BR] 240X320.jar",
     "produtora": "Gameloft",
     "display_name": "War Of The Worlds",
-    "cover_url": "",
+    "cover_url": "https://i.imgur.com/jLkVtUM.png",
     "ano": "",
-    "genero": "",
+    "genero": "Aventura",
     "descricao": ""
   },
   {
